@@ -29,7 +29,9 @@
       "declaration": true,
       "assignment": true,
       "return": true
-    }]
+    }],
+    "no-unused-vars": "off",
+    "quotes": "off"
   },
   "plugins": [
     "react"
