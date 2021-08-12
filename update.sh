@@ -1,0 +1,1 @@
+cp ../my-resume/resume.pdf ./src/data/resume/
