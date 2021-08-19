@@ -1,12 +1,12 @@
 # Intro
 
-I am a pre-junior (year 3/5) computer science student at Drexel University, Philadelphia, PA. I have one year of junior experience at Susquehanna International Group and Bentley Systems in both frontend and backend development.
+I am a pre-junior (year 3/5) computer science student at [Drexel University](https://drexel.edu/), Philadelphia, PA. I have one year of junior experience at [Susquehanna International Group](https://sig.com/) and [Bentley Systems](https://www.bentley.com/) in both frontend and backend development.
 
 I am a go-getter that enjoys problem solving and socializing with people. Most of all, I am excited to learn more about the world of technology and how it can connect people.
 
 # Currently
 
-I am finishing up my second co-op at Bentley Systems and will begin classes in the fall. I will be embarking on my two tracks: artificial intelligence and computer vision. I am very excited to be back in person again!
+I am finishing up my second co-op at [Bentley Systems](https://www.bentley.com/) and will begin classes in the fall. I will be embarking on my two tracks: artificial intelligence and computer vision. I am very excited to be back in person again!
 
 # I like
 
