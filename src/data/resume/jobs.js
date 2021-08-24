@@ -8,6 +8,7 @@ const jobs = [
       'Automated tests of npm test packages to minimize test flakiness via MS Azure CI/CD caching',
       'Created a responsive dashboard for visualizing our global services and their respective statuses via React.js & Azure Functions',
       'Aggregated and visualized data & metrics for the team\'s quarterly reports via PowerBI',
+      'Improved webhook functionality of add/edit/create by extending Azure\'s CLI tool\'s functionality',
     ],
   },
   {
