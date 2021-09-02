@@ -24,6 +24,7 @@ I am finishing up my second co-op at [Bentley Systems](https://www.bentley.com/)
 - I learned to play chess all by myself and played nationally in the USCF from 2015-2017.
 - I type very fast. I have an average WPM of 125, and my highest WPM is 155.
 - I attended my first hackathon in 2019, but never presented (we all chickened!).
+- I used to play the piano. I wish I continued playing because I find it fun now, but I definitely don't miss the practice sessions.
 - I have a lot of side projects that have never survived and live in the dark corner called _private repos_.
 
 # I dream of
