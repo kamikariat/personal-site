@@ -44,7 +44,7 @@ const Resume = () => (
           </div>
           <div className="App">
             <a href={Pdf} target="_blank" rel="noreferrer">
-              Click here for a much more readable resume.
+              Click here for an exportable PDF.
             </a>
           </div>
         </div>
