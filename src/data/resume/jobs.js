@@ -3,7 +3,7 @@ const jobs = [
     company: 'Bentley Systems',
     position: 'Software Engineer Co-op',
     link: 'https://www.bentley.com/en',
-    daterange: 'March 2021 - Present',
+    daterange: 'March 2021 - Sept. 2021',
     points: [
       'Automated tests of npm test packages to minimize test flakiness via MS Azure CI/CD caching',
       'Created a responsive dashboard for visualizing our global services and their respective statuses via React.js & Azure Functions',
