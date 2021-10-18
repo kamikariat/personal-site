@@ -13,6 +13,7 @@ I am finishing up my second co-op at [Bentley Systems](https://www.bentley.com/)
 - Chess
 - Super Smash Bros. Ultimate
 - Pool / Billiards
+- Anime
 - Ice skating
 - Biking
 - Photography
