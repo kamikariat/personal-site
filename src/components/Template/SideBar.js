@@ -33,7 +33,7 @@ const SideBar = () => (
               Learn More
             </Link>
           ) : (
-            <Link href="#0 " className="button">You&apos;re currently learning more!</Link>
+            <Link href="#0 " className="button">You&apos;re currently learning more about me!</Link>
           )}
         </li>
       </ul>
