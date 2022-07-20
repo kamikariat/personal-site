@@ -9,7 +9,7 @@ const validateText = (text) => {
 };
 
 const messages = [
-  'wu.kevin.2520',
+  'tony.shek.kam',
 ];
 
 const useInterval = (callback, delay) => {
@@ -26,7 +26,7 @@ const useInterval = (callback, delay) => {
       }, delay);
       return () => clearInterval(id);
     }
-    return () => {}; // pass linter
+    return () => { }; // pass linter
   }, [delay]);
 };
 

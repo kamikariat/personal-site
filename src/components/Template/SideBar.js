@@ -9,12 +9,12 @@ const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${PUBLIC_URL}/images/kevin.jpg`} alt="" />
+        <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Kevin Wu</h2>
+        <h2>Tony Kam</h2>
         <p>
-          <a href="mailto:wu.kevin.2520@gmail.com">wu.kevin.2520@gmail.com</a>
+          <a href="mailto:tony.shek.kam@gmail.com">tony.shek.kam@gmail.com</a>
         </p>
       </header>
     </section>
@@ -22,9 +22,9 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi! I&apos;m Kevin. I like learning about and socializing with others. I
-        am a <a href="https://drexel.edu/">Drexel University</a> student in
-        Philadelphia, PA.
+        Hi! I&apos;m Tony. I like reading and building things. I
+        am a <a href="https://www.berkeley.edu/">UC Berkeley</a> student in
+        Berkeley, CA.
       </p>
       <ul className="actions">
         <li>
@@ -42,7 +42,7 @@ const SideBar = () => (
     <section id="footer">
       <ContactIcons />
       <p className="copyright">
-        &copy; Kevin Wu <Link to="/">kevinismyna.me</Link>.
+        &copy; Tony Kam <Link to="/">tonykam.com</Link>.
       </p>
     </section>
   </section>

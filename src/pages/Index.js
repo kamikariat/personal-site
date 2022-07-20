@@ -6,14 +6,14 @@ import Main from "../layouts/Main";
 const Index = () => (
   <Main
     description={
-      "Kevin Wu's personal website. Computer science student at Drexel University one year of junior experience."
+      "Tony Kam's personal website. Electrical Engineering & Computer Science student at UC Berkeley."
     }
   >
     <article className="post" id="index">
       <header>
         <div className="title">
           <h2 data-testid="heading">
-            <Link to="/">Hi! I&apos;m Kevin.</Link>
+            <Link to="/">Hi! I&apos;m Tony.</Link>
           </h2>
         </div>
       </header>
@@ -30,13 +30,6 @@ const Index = () => (
         {" "}
         Source code available{" "}
         <a href="https://github.com/kevinismyname/personal-site">here</a>.
-      </p>
-
-      <p>
-        Huge thanks to Michael D&apos;Angelo for providing this{" "}
-        <a href="https://github.com/mldangelo/personal-site">
-          templated website.
-        </a>
       </p>
     </article>
   </Main>

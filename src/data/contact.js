@@ -6,17 +6,17 @@ import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 
 const data = [
   {
-    link: 'https://github.com/kevinismyname',
+    link: 'https://github.com/kamikariat',
     label: 'Github',
     icon: faGithub,
   },
   {
-    link: 'https://www.linkedin.com/in/kevinismyname',
+    link: 'https://www.linkedin.com/in/tonyshekkam/',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
   {
-    link: 'mailto:wu.kevin.2520@gmail.com',
+    link: 'mailto:tony.shek.kam@gmail.com',
     label: 'Email',
     icon: faEnvelope,
   },

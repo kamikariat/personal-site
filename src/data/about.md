@@ -1,24 +1,20 @@
 # Intro
 
-I am a junior (year 4/5) computer science student at [Drexel University](https://drexel.edu/), Philadelphia, PA. I have one year of junior experience across my time at [Susquehanna International Group](https://sig.com/) and [Bentley Systems](https://www.bentley.com/) in both frontend and backend development.
+I am a Senior (year 4/4) Electrical Engineering & Computer Science student at [UC Berkleey](https://www.berkeley.edu/), Berkeley, CA. I have 1 year of work experience across my time at [Tesla](https://www.tesla.com/) (11 months ongoing) and [Intel](https://www.intel.com/) (3 months) in Software Engineering.
 
-I am a go-getter that enjoys problem solving and socializing with people. Most of all, I am excited to learn more about the world of technology and how it can connect people.
+I am a go-getter that enjoys problem solving and community building. Most of all, I am excited to learn more about the world of technology and how it can connect people.
 
 # Currently
 
-I just finished my second co-op at [Bentley Systems](https://www.bentley.com/) and am currently in classes. I will be embarking on my two tracks: artificial intelligence and computer vision. I am very relieved to be back in person again (but safety is always number one)!
+I am working as a Software Engineering Intern at [Tesla](https://www.tesla.com/) and getting ready to start my final year at UC Berkeley. My current interests are Computer Vision and Distributed Systems.
 
 # I like
 
-- Chess
-- First-person-shooter video games (e.g. Counter-Strike)
-- Super Smash Bros. Ultimate
-- Pool (not the swimming one)
+- Electronic Dance Music (House & Techno), currently listening to [Adra](https://adra.bandcamp.com/album/fear-is-the-mind-killer)
+- Cooking
+- European Art History 
 - Anime
-- Ice skating
-- Biking
-- Photography
-- Travelling
+- Working Out
 
 # Fun facts
 

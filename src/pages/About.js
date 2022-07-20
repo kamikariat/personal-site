@@ -18,7 +18,7 @@ const LinkRenderer = ({ ...children }) => <Link {...children} />;
 const About = () => (
   <Main
     title="About"
-    description="Learn about Kevin Wu"
+    description="Learn about Tony Kam"
   >
     <article className="post markdown" id="about">
       <header>
