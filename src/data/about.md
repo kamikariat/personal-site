@@ -1,8 +1,6 @@
 # Intro
 
-I am a Senior (year 4/4) Electrical Engineering & Computer Science student at [UC Berkleey](https://www.berkeley.edu/), Berkeley, CA. I have 1 year of work experience across my time at [Tesla](https://www.tesla.com/) (11 months ongoing) and [Intel](https://www.intel.com/) (3 months) in Software Engineering.
-
-I am a go-getter that enjoys problem solving and community building. Most of all, I am excited to learn more about the world of technology and how it can connect people.
+I am a Senior (year 4/4) at [UC Berkleey](https://www.berkeley.edu/), studying Electrical Engineering & Computer Science. I have 1 year of work experience across my time at [Tesla](https://www.tesla.com/) (11 months ongoing) and [Intel](https://www.intel.com/) (3 months) in Software Engineering. I live for building products that improve people’s lives. I am a go-getter that enjoys problem solving and community building. Most of all, I am excited to learn more about the world of technology and how it can connect people.
 
 # Currently
 

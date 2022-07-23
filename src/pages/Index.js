@@ -23,7 +23,8 @@ const Index = () => (
         <Link to="/about">about me</Link>, check out my{" "}
         <Link to="/resume">resume</Link>, see{" "}
         <Link to="/projects">projects</Link>, view{" "}
-        <Link to="/stats">site statistics</Link>, or{" "}
+        <Link to="/stats">site statistics</Link>, read{" "}
+        <Link to="/blog">blog</Link>, or {" "}
         <Link to="/contact">contact</Link> me.
       </p>
       <p>
