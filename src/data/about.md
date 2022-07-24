@@ -1,30 +1,17 @@
-# Intro
+## System Software Engineer (Bit Alchemist)
+- I am a System Software Engineer based in the Bay Area. Currently, I'm at [Tesla](https://www.tesla.com/) (9/21-) working on Vehicle System Software. On the side, I'm finishing up my degree in Electrical Engineering and Computer Science at [UC Berkeley](https://www.berkeley.edu/). 
+- Previously, I worked on Cyber-physical IoT systems at [Intel](https://www.intel.com/), Robotics Cloud at [CloudMinds](https://www.linkedin.com/company/cloudminds-technologies/), and Low Band Communication System at [Irvine Cubesat](https://www.irvinecubesat.org/) (In short: Autonomous Electric Vehicles, Industrial Robotics, Cloud Computing, and Satellites.)
+- I'm interested in building a sustainable future and decentralized web. I am a mission-driven creative problem solver. I live for designing customer-centric products experiences.
+# Living Portfolio
+- See [Projects](/projects)
 
-I am a Senior (year 4/4) at [UC Berkleey](https://www.berkeley.edu/), studying Electrical Engineering & Computer Science. I have 1 year of work experience across my time at [Tesla](https://www.tesla.com/) (11 months ongoing) and [Intel](https://www.intel.com/) (3 months) in Software Engineering. I live for building products that improve people’s lives. I am a go-getter that enjoys problem solving and community building. Most of all, I am excited to learn more about the world of technology and how it can connect people.
-
-# Currently
-
-I am working as a Software Engineering Intern at [Tesla](https://www.tesla.com/) and getting ready to start my final year at UC Berkeley. My current interests are Computer Vision and Distributed Systems.
-
-# I like
-
-- Electronic Dance Music (House & Techno), currently listening to [Adra](https://adra.bandcamp.com/album/fear-is-the-mind-killer)
-- Cooking
-- European Art History 
-- Anime
-- Working Out
-
-# Fun facts
-
-- I learned to play chess all by myself and played nationally in the USCF from 2015-2017.
-- I type very fast. I have an average WPM of 136, and my highest WPM is 163.
-- I attended my first hackathon in 2019, but never presented (we all chickened!).
-- I used to play the piano. I wish I continued playing because I find it fun now, but I definitely don't miss the practice sessions.
-- I have a lot of side projects that have never survived and live in the dark corner called _private repos_.
-
+## Renaissance Man
+# I like:
+- Surfing. I ride a 9ft long board and my favorite surf spot is "Old Man's" at San-Onofre (Right next to the closed Nuclear plants). One day, I will go on my [Endless Summer](https://www.imdb.com/title/tt0060371/) in search of the perfect wave. 
+- Electronic Dance Music (House and Techno). I'm currently listening to [Adra](https://adra.bandcamp.com/album/fear-is-the-mind-killer).
+- Running. 
+- Eating. Sharing food is my love language. Better if it's homemade.
+# Fun facts:
+- I grew up in Beijing and moved to the United States for high school. I played on the football team and initially joined thinking it was actual football (Soccer).
 # I dream of
-
-- visiting all the continents (except Antarctica).
-- speaking all languages.
-- being better than you at Smash Ultimate.
-- you not asking for example side projects because I am far too embarassed by their progress.
+- starting my own restaurant one day.

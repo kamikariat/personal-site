@@ -13,7 +13,7 @@ const Index = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading">
-            <Link to="/">Hi! I&apos;m Tony.</Link>
+            <Link to="/">Hi! I&apos;m Tony Kam.</Link>
           </h2>
         </div>
       </header>
@@ -28,9 +28,7 @@ const Index = () => (
         <Link to="/contact">contact</Link> me.
       </p>
       <p>
-        {" "}
-        Source code available{" "}
-        <a href="https://github.com/kevinismyname/personal-site">here</a>.
+        You can read my blog post here.
       </p>
     </article>
   </Main>

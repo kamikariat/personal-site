@@ -13,18 +13,17 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Tony Kam</h2>
-        <p>
-          <a href="mailto:tony.shek.kam@gmail.com">tony.shek.kam@gmail.com</a>
-        </p>
+        <ContactIcons />
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi! I&apos;m Tony. I like reading and building things. I
-        am a <a href="https://www.berkeley.edu/">UC Berkeley</a> student in
-        Berkeley, CA.
+        I am a Systems Software Engineer based in Bay Area.
+      </p>
+      <p>
+        I am interested in building a sustainable future and decentralized web.
       </p>
       <ul className="actions">
         <li>
@@ -40,7 +39,6 @@ const SideBar = () => (
     </section>
 
     <section id="footer">
-      <ContactIcons />
       <p className="copyright">
         &copy; Tony Kam <Link to="/">tonykam.com</Link>.
       </p>
