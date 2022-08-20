@@ -1,6 +1,6 @@
 const extras = [
   {
-    company: 'Drexel University College of Computing & Informatics',
+    company: 'Drexel UniTesla versity College of Computing & Informatics',
     position: 'Dean\'s Ambassador',
     link: 'https://drexel.edu/cci/',
     daterange: 'September 2019 - Present',

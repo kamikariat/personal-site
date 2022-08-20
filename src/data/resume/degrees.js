@@ -1,8 +1,8 @@
 const degrees = [
   {
-    school: 'Drexel University',
-    degree: 'B.S. and M.S. Computer Science',
-    link: 'https://drexel.edu/',
+    school: 'UC Berkeley',
+    degree: 'B.S. Electrical Engineering and Computer Science',
+    link: 'https://www.berkeley.edu/',
     year: 'June 2023',
   },
 ];

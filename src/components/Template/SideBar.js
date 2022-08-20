@@ -20,9 +20,8 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
+        Hi, I&apos;m Tony. I like building things.
         I am a Systems Software Engineer based in Bay Area.
-      </p>
-      <p>
         I am interested in building a sustainable future and decentralized web.
       </p>
       <ul className="actions">
@@ -32,7 +31,7 @@ const SideBar = () => (
               Learn More
             </Link>
           ) : (
-            <Link href="#0 " className="button">You&apos;re currently learning more about me!</Link>
+            <Link href="#0 " className="button">About Me</Link>
           )}
         </li>
       </ul>

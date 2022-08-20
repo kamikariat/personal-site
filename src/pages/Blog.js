@@ -14,8 +14,10 @@ const Blog = () => (
           <h2 data-testid="heading">
             <Link to="/blog">Blog</Link>
           </h2>
+          <p>Some of my thoughts in words</p>
         </div>
       </header>
+      Coming soon!
     </article>
   </Main>
 );

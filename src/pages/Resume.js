@@ -5,7 +5,7 @@ import Main from "../layouts/Main";
 
 import Education from "../components/Resume/Education";
 import Experience from "../components/Resume/Experience";
-// import Skills from '../components/Resume/Skills';
+import Skills from '../components/Resume/Skills';
 // import Courses from '../components/Resume/Courses';
 import Extracurriculars from "../components/Resume/Extracurriculars";
 import References from "../components/Resume/References";
@@ -14,14 +14,14 @@ import References from "../components/Resume/References";
 import degrees from "../data/resume/degrees";
 import jobs from "../data/resume/jobs";
 import extras from "../data/resume/extras";
-// import { skills, categories } from '../data/resume/skills';
+import { skills, categories } from '../data/resume/skills';
 
 import Pdf from "../data/resume/resume.pdf";
 
 const sections = [
   "Education",
   "Experience",
-  // 'Skills',
+  'Skills',
   // 'Courses',
   // 'References',
   "Extracurriculars",
@@ -34,7 +34,13 @@ const Resume = () => (
         <div className="title">
           <h2 data-testid="heading">
             <Link to="resume">Resume</Link>
+            {"  "}
           </h2>
+          <div className="App">
+            <a href={Pdf} target="_blank" rel="noreferrer">
+              Click here for the resume as exportable PDF.
+            </a>
+          </div>
           <div className="link-container">
             {sections.map((sec) => (
               <h4 key={sec}>
@@ -42,17 +48,12 @@ const Resume = () => (
               </h4>
             ))}
           </div>
-          <div className="App">
-            <a href={Pdf} target="_blank" rel="noreferrer">
-              Click here for the resume as exportable PDF.
-            </a>
-          </div>
         </div>
       </header>
       <Education data={degrees} />
       <Experience data={jobs} />
-      <Extracurriculars data={extras} />
-      {/* <Skills skills={skills} categories={categories} /> */}
+      <Skills skills={skills} categories={categories} />
+      {/* <Extracurriculars data={extras} /> */}
       {/* <Courses data={courses} /> */}
       {/* <References /> */}
     </article>

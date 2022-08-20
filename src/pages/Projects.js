@@ -18,12 +18,14 @@ const Projects = () => (
           <p>A selection of projects that survived development</p>
         </div>
       </header>
-      {data.map((project) => (
+      Coming soon
+      {/* {data.map((project) => (
         <Cell
           data={project}
           key={project.title}
         />
       ))}
+      */}
     </article>
   </Main>
 );
