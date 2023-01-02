@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import Pdf from "../../data/resume/resume.pdf";
 
 import ContactIcons from "../Contact/ContactIcons";
 
@@ -21,8 +22,8 @@ const SideBar = () => (
       <h2>About</h2>
       <p>
         Hi, I&apos;m Tony. I like building things.
-        I am a Systems Software Engineer based in Bay Area.
-        I am interested in building a sustainable future and decentralized web.
+        I am a software engineer based in Bay Area. See my {" "}
+        <a href={Pdf} target="_blank" rel="noreferrer">CV</a>.
       </p>
       <ul className="actions">
         <li>

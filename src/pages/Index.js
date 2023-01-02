@@ -13,23 +13,21 @@ const Index = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading">
-            <Link to="/">Hi! I&apos;m Tony Kam.</Link>
+            <Link to="/">New!</Link>
           </h2>
         </div>
       </header>
       <p>
         {" "}
-        Welcome to my website. Please feel free to read more{" "}
-        <Link to="/about">about me</Link>, check out my{" "}
-        <Link to="/resume">resume</Link>, see{" "}
-        <Link to="/projects">projects</Link>, view{" "}
-        <Link to="/stats">site statistics</Link>, read{" "}
+        Welcome to my website. Please feel free to read {" "}
+        <Link to="/about">about me</Link>, see{" "}
+        <Link to="/projects">projects</Link>, check out my{" "}
         <Link to="/blog">blog</Link>, or {" "}
         <Link to="/contact">contact</Link> me.
       </p>
-      <p>
-        You can read my blog post here.
-      </p>
+      <li>
+        1/2/23 - This site has been revived!
+      </li>
     </article>
   </Main>
 );
