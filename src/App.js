@@ -21,12 +21,12 @@ const App = () => (
     <Suspense fallback={<Main />}>
       <Switch>
         <Route exact path="/" component={Index} />
-        <Route path="/about" component={About} />
+        {/* <Route path="/about" component={About} /> */}
         <Route path="/projects" component={Projects} />
-        <Route path="/stats" component={Stats} />
-        <Route path="/contact" component={Contact} />
+        {/* <Route path="/stats" component={Stats} />
+        <Route path="/contact" component={Contact} /> */}
         <Route path="/blog" component={Blog} />
-        <Route path="/skills" component={Skills} />
+        {/* <Route path="/skills" component={Skills} /> */}
         <Route component={NotFound} status={404} />
       </Switch>
     </Suspense>
